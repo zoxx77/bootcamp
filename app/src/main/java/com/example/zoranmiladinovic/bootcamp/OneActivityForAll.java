@@ -15,5 +15,6 @@ public class OneActivityForAll extends AppCompatActivity {
 
     public void nextLevel(View view) {
         Intent intent = new Intent(this, Gallery.class);
+        startActivity(intent);
     }
 }

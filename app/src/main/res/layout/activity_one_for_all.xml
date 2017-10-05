@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:onClick="nextLevel"
         android:text="@string/button_next_level"
-        tools:layout_editor_absoluteX="83dp"
-        tools:layout_editor_absoluteY="295dp" />
+        tools:layout_marginTop="200dp"
+    />
 
 </android.support.constraint.ConstraintLayout>
